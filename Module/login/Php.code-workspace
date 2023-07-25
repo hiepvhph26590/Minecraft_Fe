@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Php"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"editor.linkedEditing": true,
+		"liveServer.settings.multiRootWorkspaceName": "WEB207-Releases"
+	}
+}
